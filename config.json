@@ -1,0 +1,20 @@
+{
+  "ftp_ip" : "0.0.0.0",
+  "ftp_port": 21,
+  "users_list" : [
+    {
+      "user_name": "home",
+      "user_pass": "1",
+      "user_dir": "/home/mrfufl4ik/home_dir",
+      "user_perm": "elradfmwMT"
+    },
+    {
+      "user_name": "delta",
+      "user_pass": "1",
+      "user_dir": "/home/mrfufl4ik/delta",
+      "user_perm": "elradfmwMT"
+    }
+  ]
+}
+
+
